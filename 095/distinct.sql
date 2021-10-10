@@ -1,1 +1,1 @@
-SELECT DISTINCT * FROM people;
+SELECT DISTINCT pcity, pstate FROM people;
